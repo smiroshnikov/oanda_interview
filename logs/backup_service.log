@@ -1,0 +1,19 @@
+[INFO 2020-10-19+23:13:23 execute_backup:133] Pre backup checks ....started
+[INFO 2020-10-19+23:13:23 execute_backup:37] Destination C:/Users/Art3m15/IdeaProjects/oanda_interview/logs/ is valid ... proceeding
+[INFO 2020-10-19+23:13:23 execute_backup:53] Free space validated , drive has 101 GB of free space... proceeding
+[INFO 2020-10-19+23:13:23 execute_backup:66] User permissions validated ... proceeding
+[INFO 2020-10-19+23:13:23 execute_backup:98] No other instances of rsync detected... proceeding
+[INFO 2020-10-19+23:13:23 execute_backup:139] Pre backup checks ....completed
+[INFO 2020-10-19+23:55:38 execute_backup:211] Pre backup checks ....started
+[INFO 2020-10-19+23:55:38 execute_backup:45] Destination C:/Users/Art3m15/IdeaProjects/oanda_interview/logs/ is valid ... proceeding
+[INFO 2020-10-19+23:55:38 execute_backup:61] Free space validated , drive has 101 GB of free space... proceeding
+[INFO 2020-10-19+23:55:38 execute_backup:74] User permissions validated ... proceeding
+[INFO 2020-10-19+23:55:38 execute_backup:106] No other instances of rsync detected... proceeding
+[INFO 2020-10-19+23:55:38 execute_backup:217] Pre backup checks ....completed
+[INFO 2020-10-19+23:55:38 execute_backup:162] rsync started
+[INFO 2020-10-19+23:55:38 execute_backup:195] watchdog started .....
+[INFO 2020-10-19+23:55:39 execute_backup:197] Watchdog awake -> rsync write io 0 rsync read io 0
+[INFO 2020-10-19+23:55:43 execute_backup:200] Watchdog awake -> rsync write io 0 rsync read io 0
+[INFO 2020-10-19+23:55:43 execute_backup:202] watchdog io delta calculation (0, 0)
+[ERROR 2020-10-19+23:55:43 execute_backup:204] rsync IDLE for 3 seconds -> sending kill signal 
+[INFO 2020-10-19+23:55:44 execute_backup:129] Sending email to alert.dispatcher.6883674@gmail.com
